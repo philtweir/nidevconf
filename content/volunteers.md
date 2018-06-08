@@ -156,7 +156,7 @@ If you are looking after a room in the afternoon, we would ask that you check in
     * These communicate several key bits of info, such as other talks (no leaflets, and not everybody has the app!)
     * They can be paused or played at the bottom left of the screen (they auto-cycle)
 2. Ensure the room does not go over capacity. Add a Room Full sign outside the door when the capacity is reached
-3. Inform security if First Aid is needed
+3. Inform the Catering staff and a committee member if First Aid is needed
 4. Use Twitter to tweet pictures of the talks on hashtag #nidevconf18
 5. Solve, or find someone to solve, technical (or other) issues in the room
 6. Get the time cards and any signage from Info Desk, if not in the room
