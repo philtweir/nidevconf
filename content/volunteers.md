@@ -178,7 +178,7 @@ If you are looking after a room in the afternoon, we would ask that you check in
 4. Keep time of the presentation
 5. Inform the speaker of the time left in 10, 5 and 1 minutes signs
 6. Engage with the audience to ask questions (if suitable for the speaker/track)
-7. Always have a question for the speaker, in case there are no questions from the audience
+7. Always have a question for the speaker, in case there are no questions from the audience (if the speaker leaves time for questions). Ensure all questions are repeated by the speaker
 8. Inform the audience that discussion items can be added to the Open Space
 9. Announce fire escape procedure at the start of session in the room
 10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social cues and public boundaries of propriety, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
