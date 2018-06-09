@@ -184,6 +184,7 @@ If you are looking after a room in the afternoon, we would ask that you check in
 10. Handle inappropriate questions or comments within the room (and coordinate with the monitor to ensure reporting to the Info Desk, where required). Please do be aware that some attendees may struggle with social cues and public boundaries of propriety, and resolving swiftly through a firm, direct and gentle approach may be more effective than either an evasive or abrasive approach.
 11. Ensure speakers who do not wish to be recorded or photographed are not (by audience or official photographer)
 12. Ensure speakers use both the induction loop and recording microphones
+13. Ask speakers about any flashing imagery and warn if so
 
 ## Tasks
 
